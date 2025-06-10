@@ -28,6 +28,6 @@ Included a saved chart: 'education_income_chart.png'
 Explore how race, location, and gender intersect with education and earnings in future projects.
 
 ##  Project Files
-- Jupyter Notebook: `education_earnings_analysis.ipynb`
-- Chart Image: `education_income_chart.png`
-- Dataset: `education_income_data.csv`
+- Jupyter Notebook:'education_vs_earnings.ipynb;
+- Chart Image:'education_income_chart.png'
+- Dataset:'education_income_data.csv'
