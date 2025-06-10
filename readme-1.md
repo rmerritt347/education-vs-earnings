@@ -22,7 +22,7 @@ U.S. Census Educational Attainment and Median Earnings Dataset.
 - Visual insights confirm clear income disparities by education level.
 
 ##  Visualization
-Included a saved chart: `education_income_chart.png`
+Included a saved chart: 'education_income_chart.png'
 
 ##  Next Steps
 Explore how race, location, and gender intersect with education and earnings in future projects.
